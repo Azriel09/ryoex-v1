@@ -1,0 +1,23 @@
+.home {
+  background-image: url("../../better-blue.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 200vh;
+  background-position: center 25%;
+  width: 100%;
+  position: absolute;
+}
+
+.tools {
+  margin-top: 10vh;
+}
+
+.home-sub {
+  margin-top: 10px;
+}
+
+@media screen and (max-height: 1000px) {
+  .home {
+    height: 250vh;
+  }
+}

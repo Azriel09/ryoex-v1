@@ -1,0 +1,14 @@
+.login-container {
+  background-image: url("../../account-bg.png");
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+}
+.logo-login {
+  margin: 25px 0;
+  width: 125px;
+  background-color: blue;
+  padding-top: 5px;
+  border-radius: 10px;
+  padding-right: 7px;
+}
